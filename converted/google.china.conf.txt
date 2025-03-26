@@ -3,6 +3,7 @@
 [/2mdn.net/]60.191.134.196 quic://dns.alidns.com https://doh.pub/dns-query
 [/admob-cn.com/]60.191.134.196 quic://dns.alidns.com https://doh.pub/dns-query
 [/adservice.google.com/]60.191.134.196 quic://dns.alidns.com https://doh.pub/dns-query
+[/app-analytics-services.com/]60.191.134.196 quic://dns.alidns.com https://doh.pub/dns-query
 [/app-measurement-cn.com/]60.191.134.196 quic://dns.alidns.com https://doh.pub/dns-query
 [/app-measurement.com/]60.191.134.196 quic://dns.alidns.com https://doh.pub/dns-query
 [/apps5.oingo.com/]60.191.134.196 quic://dns.alidns.com https://doh.pub/dns-query
